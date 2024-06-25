@@ -8,8 +8,8 @@ const port = 3000;
 
 // Sample data structure for storing job data
 let updatedJobData = [
-  { id: 11, location: 'Location A', role: 'Role A', business_area: 'Area A', created_at: new Date(), updated_at: new Date() },
-  { id: 12, location: 'Location B', role: 'Role B', business_area: 'Area B', created_at: new Date(), updated_at: new Date() }
+  { id: 11, location: 'Jaipur, Rajasthan', role: 'AI/ML Developer', business_area: 'Tech', created_at: new Date(), updated_at: new Date() },
+  { id: 12, location: 'Jaipur, Rajasthan', role: 'Fullstack( Framework: Any )', business_area: 'Tech', created_at: new Date(), updated_at: new Date() }
 ];
 
 // Middleware setup
